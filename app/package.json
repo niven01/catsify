@@ -20,7 +20,7 @@
     "@angular/platform-browser": "~11.2.13",
     "@angular/platform-browser-dynamic": "~11.2.13",
     "@angular/router": "~11.2.13",
-    "@pqina/flip": "^1.7.5",
+    "@pqina/flip": "^1.8.4",
     "rxjs": "~7.0.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
