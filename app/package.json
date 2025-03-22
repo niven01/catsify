@@ -22,7 +22,7 @@
     "@angular/router": "~11.2.13",
     "@pqina/flip": "^1.7.5",
     "rxjs": "~7.0.0",
-    "tslib": "^1.10.0",
+    "tslib": "^1.14.1",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
